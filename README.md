@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/majidzeno/hypd-issue-tracker/blob/main/hypd-slogan.svg" alt="hypd-logo" width="400" height="300" style="display: block; margin: 0 auto" />
+  <img src="https://github.com/majidzeno/hypd-issue-tracker/blob/main/hypd-slogan.svg" alt="hypd-logo" width="400" height="280" style="display: block; margin: 0 auto" />
 </div>
 
 Welcome to the `hypd-issue-tracker` repository! This project serves as a centralized hub for collecting and tracking user requests, feedback, and issues for the HYPD app.
